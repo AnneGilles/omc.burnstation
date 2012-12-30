@@ -1,0 +1,17 @@
+=========
+i3 setup
+=========
+
+Oleander hat dankenswerterweise an der OMC Burnstation rumgehackt und das
+Frontend mal umgebaut.
+::
+
+
+   Files: i3/config (macht auch Autostart)
+
+   poettering/pulseaudio
+
+   .config/gmusicbrowser/tags
+
+   /usr/share/gmusicbrowser/layouts
+
