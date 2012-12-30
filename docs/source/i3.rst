@@ -4,6 +4,20 @@ i3 setup
 
 Oleander hat dankenswerterweise an der OMC Burnstation rumgehackt und das
 Frontend mal umgebaut.
+
+Tastenkombinationen
+--------------------
+
+ * nach Start maximieren (versteckt Fensterleisten): ALT-F
+
+ * andere Desktops: ALT-1 ... n
+
+ * Anwendungsstarter / Shell (demenu): ALT-V
+
+ * Schliessen: ALT-SHIFT-Q
+
+
+Hinweis auf möglicherweise interessante Konfigurationsdateien
 ::
 
 
